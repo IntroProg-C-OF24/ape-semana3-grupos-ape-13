@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 
 package ejercicio01;
 
 public class Ejercicio01 {
 
+=======
+package ejercicio01;
+public class Ejercicio01 {
+>>>>>>> 6f07111c8ead65e7b22ba9e321553703daa29f56
     public static void main(String[] args) {
         // Solución a la problemática
 
@@ -11,7 +16,11 @@ public class Ejercicio01 {
         int variable3 = 4;
         int variable4 = 3;
         int variable5 = 5;
+<<<<<<< HEAD
         int variable6 = 81; //Cambiar el valor de 80 a 81 
+=======
+        int variable6 = 81;
+>>>>>>> 6f07111c8ead65e7b22ba9e321553703daa29f56
 
         System.out.println("-------Solución a problema------------------");
         // Math.sqrt me permite obtener la raíz cuadrada de un número
@@ -22,7 +31,7 @@ public class Ejercicio01 {
         
         
         System.out.println(resultado);
-
+        //CORREGIDO VARIABLE 6
     }
 
 }
