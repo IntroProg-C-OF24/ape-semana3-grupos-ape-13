@@ -1,4 +1,4 @@
-
+gitgit
 package ejercicio.pkg04;
 public class Ejercicio04 {
 
@@ -9,7 +9,7 @@ public class Ejercicio04 {
     int var4 = 3;  
     boolean respuesta;
     
-    respuesta = (var1/(var1 + var4)+ var3) >= 3;
+    respuesta = ((var1 / (var2 + var4)) + var3) >= 3;
     System.out.println("La respuesta es: " + respuesta);
     //Autor BJALAO
     }
